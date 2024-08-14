@@ -51,7 +51,8 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
-- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html):
+  https://www.youtube.com/watch?v=PkXDqy9umFE , https://www.youtube.com/watch?v=Lp8oITg0MiI
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825) : https://www.youtube.com/watch?v=Ig8t6MhroB8
 
 ## 🖇️ System Design Architectural Patterns
