@@ -50,7 +50,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
-- [API Gateway](https://www.nginx.com/learn/api-gateway/)
+- [API Gateway](https://www.nginx.com/learn/api-gateway/) : https://www.youtube.com/watch?v=6ULyxuHKxg8
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html):
   https://www.youtube.com/watch?v=PkXDqy9umFE , https://www.youtube.com/watch?v=Lp8oITg0MiI
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825) : https://www.youtube.com/watch?v=Ig8t6MhroB8
